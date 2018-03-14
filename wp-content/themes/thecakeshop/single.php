@@ -7,7 +7,7 @@
 </head>
 <body>
 
-	<h1>Hi world from index.php !!</h1>
+	<h1>Hi world from single.php !!</h1>
 
 </body>
 </html>
